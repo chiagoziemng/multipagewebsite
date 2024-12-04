@@ -416,8 +416,8 @@ h6 {
 /* Accordion
 ------------------------------------------------------------- */
 .accordion {
-  --bs-accordion-btn-icon: url('https://api.iconify.design/ion/caret-down.svg?color=%23F2B821&width=30');
-  --bs-accordion-btn-active-icon: url('https://api.iconify.design/ion/caret-down.svg?color=%23F2B821&width=30');
+  --bs-accordion-btn-icon: url('https://api.iconify.design/ion/caret-down.svg?color=%23198754&width=30');
+  --bs-accordion-btn-active-icon: url('https://api.iconify.design/ion/caret-down.svg?color=%23198754&width=30');
   --bs-accordion-border-radius: 0px;
 }
 
@@ -591,7 +591,7 @@ svg.play-icon {
 }
 
 .service-block:hover .service-btn {
-  color: var(--dark-color);
+  color: #fff;
   background-color: #00A86B;
   border-color: #00A86B;
 }
